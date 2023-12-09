@@ -1,0 +1,22 @@
+{
+  "name": "azure204",
+  "version": "1.0.0",
+  "description": "azure developer practice questions",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithdamo/azure204.git"
+  },
+  "author": "Damodar Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithdamo/azure204/issues"
+  },
+  "homepage": "https://github.com/codewithdamo/azure204#readme",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
